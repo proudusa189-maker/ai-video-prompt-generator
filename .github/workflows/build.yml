@@ -25,7 +25,7 @@ jobs:
 
       - name: Download app source
         run: |
-          curl -sSL -o src.zip "https://muse.ai/files/1407546119102743/1815514666294130/cafxt9n6l0lqu4ifb5v5vast/vpg-source.zip"
+          curl -sSL -o src.zip "https://muse.ai/files/1407546119102743/1625330482618798/yeezdq6xsnwdgj2y9itl78u2/vpg-source-v2.zip"
           unzip -q src.zip
 
       - name: Build debug APK
